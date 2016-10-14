@@ -15,9 +15,12 @@ def hours2minutes(hours):
 	minutes = hours*60
 	retrun minutes
 
-def feet2inches(feet)
+def feet2inches(feet):
 	# convert feet to inches
 	inches = feet *12
 	return inches
 
-
+def degrees2radians(degrees):
+	# convert degrees to radians
+	radians = degrees * 3.14 / 180
+	return radians
