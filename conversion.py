@@ -14,3 +14,10 @@ def gallons2liters(gallons):
 def hours2minutes(hours):
 	minutes = hours*60
 	retrun minutes
+
+def feet2inches(feet)
+	# convert feet to inches
+	inches = feet *12
+	return inches
+
+
