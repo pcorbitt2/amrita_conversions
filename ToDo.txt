@@ -5,3 +5,7 @@ Coversion functions needed:
 - Hours to Minutes
 - Feet to Inches
 - Degrees to Radians
+
+
+Implementation:
+Writing separate functions for each conversion
